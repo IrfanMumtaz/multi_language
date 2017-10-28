@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p><?php echo translate('lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit'); ?> <?php echo translate('mauris_id_mauris_ut_sem_tincidunt_volutpat'); ?> <?php echo translate('proin_elementum_nisl_quis_convallis_tempor_lacus_libero_malesuada_purus_non_mollis_nulla_mi_nec_turpis'); ?> Praesent nec commodo odio. Ut a massa non risus malesuada ultrices. Morbi faucibus ante et quam tincidunt, in porta eros blandit. Maecenas sit amet ornare ipsum. Quisque euismod tellus eu velit feugiat, nec maximus felis finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In fringilla laoreet efficitur. Phasellus quis leo consectetur, mattis purus suscipit, mollis lectus. Cras ullamcorper felis at magna aliquam efficitur. Nullam laoreet est nibh, eget tempor justo sagittis eu. Maecenas pharetra eu nunc non finibus. Integer quis sem orci. Quisque varius tempor sem, ac placerat augue tincidunt finibus. Donec faucibus massa quam, a luctus urna finibus id.</p>
+    <p>Aliquam erat volutpat. Mauris finibus rutrum cursus. Vestibulum imperdiet diam neque, vel imperdiet metus varius at. Nulla nec sapien facilisis, tempor metus vel, consectetur erat. Vivamus at neque id eros malesuada commodo eu ut turpis. Praesent lobortis elementum augue quis malesuada. Vestibulum sit amet tincidunt leo, vel accumsan leo.</p>
+    <p>Nulla eget ante nec est venenatis tincidunt sed eu sem. Aenean ultricies lectus metus, at imperdiet nulla interdum ut. Integer at lacinia tortor, et viverra ipsum. In hac habitasse platea dictumst. Sed gravida eros et molestie bibendum. Nullam felis nibh, feugiat nec odio non, ultrices accumsan diam. Vestibulum at justo bibendum, tincidunt ligula sit amet, mattis dolor. Ut volutpat augue vitae dui vehicula egestas. Morbi pellentesque tortor ut maximus tristique. Nulla efficitur dolor ullamcorper placerat laoreet.</p>
+    <p>Praesent id mi purus. Cras ac tincidunt odio. Maecenas sollicitudin dolor vel metus accumsan lacinia. Morbi nunc sem, pharetra non sagittis nec, eleifend id sapien. Morbi lectus ex, ultricies non pellentesque et, placerat eget velit. Nulla et tempor nisi. In nec arcu libero. Nunc elementum quis ipsum vitae lacinia.</p>
+    <p>Aliquam erat volutpat. Sed rhoncus ipsum at nunc aliquet, vel rhoncus leo cursus. Etiam porttitor, nunc ac commodo scelerisque, risus dui volutpat magna, in ultrices nisi ante vel ex. Maecenas sagittis commodo magna ut faucibus. Sed quis pellentesque mauris, eu pellentesque nibh. Aliquam bibendum dolor a elementum laoreet. Nullam luctus ut orci vel tempus. Quisque aliquam felis purus, sagittis gravida felis lacinia quis. Curabitur non risus diam.</p>
+</body>
+</html>
